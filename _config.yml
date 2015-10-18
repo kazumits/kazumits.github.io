@@ -1,6 +1,6 @@
 # Site settings
 title: KAZUMITS
-# email: kazumits@gmail.com
+email: kazumits@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
     きまぐれに更新します
 baseurl: "" # the subpath of your site, e.g. /blog/
